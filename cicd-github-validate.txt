@@ -1,0 +1,8 @@
+✓ main CI workflow · 21120584611
+Triggered via push about 2 hours ago
+
+JOBS
+✓ ci in 23s (ID 60732678260)
+
+For more information about the job, try: gh run view --job=60732678260
+View this run on GitHub: https://github.com/htdguide/ci-cd-final-project/actions/runs/21120584611
