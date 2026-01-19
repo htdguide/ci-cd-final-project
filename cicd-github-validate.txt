@@ -1,8 +1,16 @@
-✓ main CI workflow · 21120584611
-Triggered via push about 2 hours ago
+✓ main CI workflow · 21123177332
+Triggered via push about 1 minute ago
 
-JOBS
-✓ ci in 23s (ID 60732678260)
+✓ build in 23s (ID 60739353023)
+  ✓ Set up job
+  ✓ Initialize containers
+  ✓ Checkout
+  ✓ Install dependencies
+  ✓ Lint with flake8
+  ✓ Run unit tests with nose
+  ✓ Post Checkout
+  ✓ Stop containers
+  ✓ Complete job
 
-For more information about the job, try: gh run view --job=60732678260
-View this run on GitHub: https://github.com/htdguide/ci-cd-final-project/actions/runs/21120584611
+To see the full job log, try: gh run view --log --job=60739353023
+View this run on GitHub: https://github.com/htdguide/ci-cd-final-project/actions/ru
